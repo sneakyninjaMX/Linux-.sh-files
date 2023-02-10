@@ -5,4 +5,4 @@ ip r
 echo ==============================================================================
 echo Pinging google.com
 echo --------------------
-ping googel.com -c 3
+ping google.com -c 3
